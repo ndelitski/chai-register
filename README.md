@@ -12,3 +12,4 @@ Now you can simple include line below in your `mocha.opts` file:
 --require chai-register
 ```
 
+### NOTE: Chai package is not included here, supposed that `chai` is installed to your project deps
