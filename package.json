@@ -1,6 +1,6 @@
 {
   "name": "chai-register",
-  "version": "3.4.1",
+  "version": "0.0.1",
   "description": "Register chai methods globally",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/ndelitski/chai-register/issues"
   },
-  "homepage": "https://github.com/ndelitski/chai-register#readme",
-  "dependencies": {
-    "chai": "^3.4.1"
-  }
+  "homepage": "https://github.com/ndelitski/chai-register#readme"
 }
